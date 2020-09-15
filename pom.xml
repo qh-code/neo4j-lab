@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.github.qh-code.neo4j-lab</groupId>
 	<artifactId>neo4j-lab</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-h2-NAPSHOT</version>
 	<name>neo4j-lab</name>
 	<description>neo4j-lab</description>
 
@@ -23,10 +23,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-rest</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-neo4j</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
